@@ -1,2 +1,2 @@
-# insertion_sort_visualizer
-shows how insertion sort functions
+# insertion sort
+the insertion sort algorithm implemented in python
